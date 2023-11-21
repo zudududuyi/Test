@@ -1,2 +1,2 @@
 # Test
-# Just a little test. Some project will be put soon
+ Just a little test. Some projects will be put soon
